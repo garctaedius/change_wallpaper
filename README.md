@@ -82,6 +82,7 @@ The following instructions show you how to set up a Windows Task Scheduler job t
 Open the run_silently.vbs file (again, Notepad is fine), and add the paths to the virtual environment you set up and the main.py file. It should look something like this:
 <img width="1632" height="231" alt="run_example" src="images/run_example.png" />
 
+## Create Windows Task Scheduler job
 Now you need to setup a Windows Task Scheduler job that runs the script automatically. The scheduler will be running the run_silently.vbs file that you just set up. This will run the script in the virtualenvironment in the background.
 - Open Task Scheduler
 - Press "Create Task..."
