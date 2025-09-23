@@ -90,7 +90,7 @@ Your wallpaper should have changed! You could run the script yourself every time
 The following instructions show you how to set up a Windows Task Scheduler job that silently runs the script every 15 minutes when your computer is active.
 
 ## Set up your run variables
-Open the run_silently.vbs file (again, Notepad is fine), and add the paths to the virtual environment you set up and the main.py file. You might be asked if you want to trust the file. Make sure to uncheck the "Ask every time" option and press open. Make sure to put both paths within the quotes, space seperated, and with double double-quotes, as in the picture below. It should look something like this:
+Open the run_silently.vbs file (again, Notepad is fine), and add the paths to the virtual environment you set up and the main.py file. You might be asked if you trust the file. Make sure to uncheck the "Always ask before opening this file" box, and press open. Make sure to put both paths within the quotes, space seperated, and with double double-quotes, as in the picture below. It should look something like this:
 <img width="1632" height="231" alt="run_example" src="images/run_example.png" />
 
 ## Create Windows Task Scheduler job
