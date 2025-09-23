@@ -108,6 +108,7 @@ Now you need to setup a Windows Task Scheduler job that runs the script automati
 - Switch to the "Actions" tab. Press "New..."
 - Type "wscript.exe" in the "Programs/script:" field.
 - Add the path (with quotation marks) to the run_silently.vbs file in the "Add arguments (optional):" field (for example: "C:\Users\garctaedius\Documents\animated_wallpaper\run_silently.vbs")
+- Press OK
 - Switch to the "Conditions" tab
 - Choose whatever options you prefer. I allow the program to run even if the computer is not on AC power.
 - Switch to the "Settings" tab
