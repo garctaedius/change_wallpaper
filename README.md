@@ -20,7 +20,7 @@ And the following weathers:
 Meaning a total of 3x7=21 different wallpapers. You can set the same wallpaper to multiple categories, or multiple wallpapers to the same category. (In which case a random one will be selected. The same one will stay on until the category changes.)
 
 # Requirements
-You need to get Wallpaper Engine from steam [https://store.steampowered.com/app/431960/Wallpaper_Engine/](https://store.steampowered.com/app/431960/Wallpaper_Engine/). You will also need to find the Wallpaper projects you like and subscribe to these.
+You need to get Wallpaper Engine from steam [https://store.steampowered.com/app/431960/Wallpaper_Engine/](https://store.steampowered.com/app/431960/Wallpaper_Engine/). When starting the app for the first time, make sure to enable "Start automatically", and "High priority". You will also need to find the Wallpaper projects you like and subscribe to these. 
 
 Additionally, you need an API key from OpenWeatherMap [https://openweathermap.org/](https://openweathermap.org/). The free option works well because only a couple of calls are made an hour and only the current weather is relevant. Sign up on their website, confirm your email, and go to [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys) to find your key.
 
