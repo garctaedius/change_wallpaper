@@ -68,7 +68,18 @@ Your main.py file should look something like this when you are done:
 <img width="1172" height="937" alt="main_example" src="images/main_example.png" />
 
 # Test your installation
-You should now be able to try out the script. Go back to your terminal window (remember to activate your virtual environment if you closed the window) and type:
+Before you move on, you should test that your OpenWeatherMap API key works, and then that the script works.
+
+## Test OpenWeatherMap API
+To test that your OpenWeatherMap API key works, you can run the test_owm.py script. Go back to your terminal window (remember to activate your virtual environment if you closed the window) and type:
+```bash
+py test_owm.py
+```
+
+If you got a message telling you your location, weather, and time of day, congrats! You can continue with the following steps. If you got an error message, your API key might not be activated yet. Wait a couple of hours and try again before continuing. If it still doesn't work, make sure that your python environment and .env file are set up properly.
+
+## Test script
+Once that works, you should now be able to try out the script. Go back to your terminal window (remember to activate your virtual environment if you closed the window) and type:
 ```bash
 py main.py
 ```
