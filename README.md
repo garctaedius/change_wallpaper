@@ -31,7 +31,7 @@ You will need to download the code, set up a proper python environment, and set 
 
 ## Set up code and python environment
 - Download the directory from GitHub. Press the green "Code" button at the top and download the zip. Extract it where you want to keep the script.
-- Open the terminal and navigate to the directory. If you don't know how to, do this: Go back to your extracted folder, where you can see all the project files. Press ctrl+l, then ctrl+c to copy the path to the folder you are in. Press the Windows key and type "cmd" and then enter to open the command line terminal. Type "cd ", then press ctrl+shift+v to paste the path to the terminal. Press Enter.
+- Open the terminal and navigate to the directory. If you don't know how to, do this: Go back to your extracted folder, where you can see all the project files. Press ctrl+l, then ctrl+c to copy the path to the folder you are in. Press the Windows key and type "cmd" and then enter to open the command line terminal. Type "cd " (don't miss the space), then press ctrl+shift+v to paste the path to the terminal. Press Enter.
 - Set up a pip virtualenvironment ("*venv*"):
 ```bash
 py -m venv venv
