@@ -24,7 +24,7 @@ You need to get Wallpaper Engine from steam [https://store.steampowered.com/app/
 
 Additionally, you need an API key from OpenWeatherMap [https://openweathermap.org/](https://openweathermap.org/). The free option works well because only a couple of calls are made an hour and only the current weather is relevant. Sign up on their website, confirm your email, and go to [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys) to find your key.
 
-Finally, you will need python3 [https://www.python.org/downloads/](https://www.python.org/downloads/) (tested on python 12 and 13).
+Finally, you will need python3 [https://www.python.org/downloads/](https://www.python.org/downloads/) (tested on python 12 and 13). Simply download the installer, and use the default settings when installing. Would probably work well with Microsoft Store version as well, but I haven't tested this.
 
 # Installation
 You will need to download the code, set up a proper python environment, and set up some environment variables.
