@@ -31,12 +31,12 @@ You will need to download the code, set up a proper python environment, and set 
 
 ## Set up code and python environment
 - Download the directory from GitHub. Press the green "Code" button at the top and download the zip. Extract it where you want to keep the script.
-- Open the terminal and navigate to the directory. If you don't know how to, you can navigate to the directory in your normal file explorer, right click, and press "Open in Terminal".
+- Open the terminal and navigate to the directory. If you don't know how to, do this: Go back to your extracted folder, where you can see all the project files. Press ctrl+l, then ctrl+c to copy the path to the folder you are in. Press the Windows key and type "cmd" and then enter to open the command line terminal. Type "cd ", then press ctrl+shift+v to paste the path to the terminal. Press Enter.
 - Set up a pip virtualenvironment ("*venv*"):
 ```bash
 py -m venv venv
 ```
-- Activate the environment:
+- Activate the environment: (If you are using PowerShell, make sure to instead run venv\Scripts\Activate.ps1, and make sure you are running as Administrator)
 ```bash
 venv\Scripts\activate.bat
 ```
