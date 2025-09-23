@@ -22,7 +22,7 @@ Meaning a total of 3x7=21 different wallpapers. You can set the same wallpaper t
 # Requirements
 You need to get Wallpaper Engine from steam [https://store.steampowered.com/app/431960/Wallpaper_Engine/](https://store.steampowered.com/app/431960/Wallpaper_Engine/). You will also need to find the Wallpaper projects you like and subscribe to these.
 
-Additionally, you need an API key from OpenWeatherMap [https://openweathermap.org/](https://openweathermap.org/). The free option works well because only a couple of calls are made an hour and only the current weather is relevant.
+Additionally, you need an API key from OpenWeatherMap [https://openweathermap.org/](https://openweathermap.org/). The free option works well because only a couple of calls are made an hour and only the current weather is relevant. Sign up on their website, confirm your email, and go to [https://home.openweathermap.org/api_keys](https://home.openweathermap.org/api_keys) to find your key.
 
 Finally, you will need python3 [https://www.python.org/downloads/](https://www.python.org/downloads/) (tested on python 12 and 13).
 
